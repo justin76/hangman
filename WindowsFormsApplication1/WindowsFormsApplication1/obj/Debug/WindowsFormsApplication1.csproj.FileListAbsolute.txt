@@ -1,0 +1,14 @@
+c:\users\mohammad abbas\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\mohammad abbas\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\mohammad abbas\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad Abbas\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainWindow.resources
+C:\Users\Mohammad Abbas\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Hangman 1.0.exe.config
+C:\Users\Mohammad Abbas\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Hangman 1.0.exe.manifest
+C:\Users\Mohammad Abbas\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Hangman 1.0.application
+C:\Users\Mohammad Abbas\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Hangman 1.0.exe
+C:\Users\Mohammad Abbas\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Hangman 1.0.pdb
+C:\Users\Mohammad Abbas\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Hangman.Properties.Resources.resources
+C:\Users\Mohammad Abbas\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Hangman 1.0.exe.manifest
+C:\Users\Mohammad Abbas\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Hangman 1.0.application
+C:\Users\Mohammad Abbas\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Hangman 1.0.exe
+C:\Users\Mohammad Abbas\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Hangman 1.0.pdb
